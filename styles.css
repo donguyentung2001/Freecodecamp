@@ -14,7 +14,7 @@ nav ul li a{
 }
 nav ul li{ 
     display: inline;
-    style
+    border: 1px solid black
 }
 nav ul li a:link{
     color:black;
