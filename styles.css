@@ -5,6 +5,9 @@ html {
 h1 { 
     color: cadetblue;
 }
+nav { 
+    border-bottom: 1px black;
+}
 nav ul {
     list-style-type: none;
 }
