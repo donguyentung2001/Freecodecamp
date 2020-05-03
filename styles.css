@@ -3,6 +3,7 @@ nav {
 }
 nav ul { 
     display: flex;
+    border:50px black;
 }
 
 nav ul li { 
