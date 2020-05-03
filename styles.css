@@ -103,3 +103,21 @@ a:hover {
 article h2 a { 
     text-decoration: none;
 }
+#my-resume { 
+    display: block; 
+    margin-left: 100px; 
+    width: 210px;
+    height: 40px;
+    border-bottom: 2px solid black; 
+    margin-bottom: 100px;
+}
+
+#resume-pdf { 
+    display: block; 
+    margin-left: 250px; 
+    margin-bottom: 50px;
+}
+
+.backup-resume { 
+    margin-left: 100px;
+}
