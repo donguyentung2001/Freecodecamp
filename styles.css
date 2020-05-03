@@ -1,6 +1,12 @@
 h1 { 
     color: cadetblue;
 }
-.navigation-bar { 
+nav ul li{ 
     font-size: larger;
+}
+nav ul li a.link {
+    color:black
+}
+nav ul li a.link { 
+    color:black
 }
