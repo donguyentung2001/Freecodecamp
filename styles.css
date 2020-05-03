@@ -5,13 +5,16 @@ html {
 h1 { 
     color: cadetblue;
 }
-
+nav ul {
+    list-style-type: none;
+}
 nav ul li a{
     font-size:larger;
     font-family: 'Arvo', serif;
 }
 nav ul li{ 
     display: inline;
+    style
 }
 nav ul li a:link{
     color:black;
