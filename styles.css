@@ -6,9 +6,11 @@ nav ul li a{
 }
 nav ul li a:link{
     color:black;
+    text-decoration: none;
 }
 nav ul li a:visited{ 
     color:black;
+    text-decoration: none;
 }
 aside p { 
     font-style: oblique;
