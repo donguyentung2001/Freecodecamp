@@ -1,5 +1,7 @@
 html { 
     font-family:  'Lato', sans-serif;
+    background: url("https://cdn.hipwallpaper.com/i/0/46/e0BS85.jpg");
+    background-size: 100% 100%; 
 }
 
 body { 
@@ -105,7 +107,8 @@ a:hover {
     height: 300px;
     padding: 50px 50px 50px 50px;
     box-shadow: 10px 10px green;
-    background-image: url("https://i.stack.imgur.com/HpwRw.png")
+    background-image: url("https://i.stack.imgur.com/HpwRw.png");
+    background-size: 100% 100%;
 }
 article h2 a { 
     text-decoration: none;
