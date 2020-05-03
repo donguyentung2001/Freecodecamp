@@ -5,9 +5,13 @@ html {
 h1 { 
     color: cadetblue;
 }
+
 nav ul li a{
     font-size:larger;
     font-family: 'Arvo', serif;
+}
+nav ul li{ 
+    display: inline;
 }
 nav ul li a:link{
     color:black;
