@@ -10,3 +10,6 @@ nav ul li a:link{
 nav ul li a:visited{ 
     color:black;
 }
+aside p { 
+    font-style: oblique;
+}
