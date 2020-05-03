@@ -133,3 +133,17 @@ article h2 a {
 #progress {
     font-weight: 400;
 }
+
+#chotoi { 
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align:center;
+}
+#sach  { 
+    padding-top: 70px;
+    width: 500px; 
+    height: 600px; 
+}
+#article1 { 
+    text-align:initial;
+}
