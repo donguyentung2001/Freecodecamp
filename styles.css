@@ -3,8 +3,9 @@ nav ul {
 }
 
 nav ul li { 
-    width: 100px; 
+    width: 150px; 
     height: 100px;
     font-size: larger;
     list-style-type: none;
+    padding: 50px;
 }
