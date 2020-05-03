@@ -1,5 +1,6 @@
 nav ul { 
     display: flex;
+    border-bottom: 1px black;
 }
 
 nav ul li { 
@@ -7,5 +8,5 @@ nav ul li {
     height: 100px;
     font-size: larger;
     list-style-type: none;
-    padding: 50px;
+    padding: 20px;
 }
