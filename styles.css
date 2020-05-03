@@ -1,11 +1,13 @@
+nav { 
+    border-bottom: 5px black;
+}
 nav ul { 
     display: flex;
-    border-bottom: 4px black;
 }
 
 nav ul li { 
     width: 150px; 
-    height: 100px;
+    height: 60px;
     font-size: larger;
     list-style-type: none;
     padding: 20px;
