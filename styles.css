@@ -17,7 +17,9 @@ nav ul li a{
 }
 nav ul li{ 
     display: inline;
-    border: 1px solid black
+    border-width: 20px;
+    border: 3px solid black;
+    float: right;
 }
 nav ul li a:link{
     color:black;
@@ -37,4 +39,5 @@ a {
 }
 a:hover {
     font-stretch: expanded;
+    font-size: larger;
 }
