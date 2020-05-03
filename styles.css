@@ -3,6 +3,7 @@ h1 {
 }
 nav ul li a{
     font-size:larger;
+    font-family: 'Arvo', serif;
 }
 nav ul li a:link{
     color:black;
@@ -14,4 +15,11 @@ nav ul li a:visited{
 }
 aside p { 
     font-style: oblique;
+}
+
+a:link { 
+    color:black
+}
+a:visited{
+    color:black
 }
