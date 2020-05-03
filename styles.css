@@ -1,7 +1,7 @@
 h1 { 
     color: cadetblue;
 }
-nav ul li{
+nav ul li a{
     font-size:larger;
 }
 nav ul li a:link{
