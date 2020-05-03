@@ -1,8 +1,13 @@
+html { 
+    font-family:  'Lato', sans-serif;
+}
+
 nav {
     overflow:hidden;
     border-bottom: 1px solid black; 
     margin-bottom: 50px;
     width: 100%;
+    margin-bottom: 120px;
 } 
 nav ul { 
     display: flex;
@@ -14,6 +19,7 @@ nav ul li {
     list-style-type: none;
     padding: 10px;
     font-family: 'Lato', sans-serif;
+    font-weight: 700;
 }
 #header { 
     padding-left: 50px;
@@ -36,3 +42,40 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover { 
+    font-size:20px;
+}
+aside { 
+    display: flex;
+    font-family: 'Lato', sans-serif;
+}
+#intro { 
+    font-size: 20px;
+    width: 550px;
+    height: 400px;
+    padding-left:100px;
+    padding-right:200px;
+}
+#brief-intro { 
+    font-size:35px;
+}
+#profile-pic { 
+    object-fit:cover;
+    border-radius: 50%; 
+    width: 400px; 
+    height: 400px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    margin-left: -100px;
+}
+#contact { 
+   padding-left: 100px;
+}
+
+a { 
+    color:black;
+    transition: 0.4s;
+}
+a:hover { 
+    font-size: larger;
+}
