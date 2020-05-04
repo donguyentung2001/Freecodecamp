@@ -95,12 +95,12 @@ a:hover {
     width:200px; 
     font-size:31px;
 }
-
 #article-1 { 
     margin-left:100px;
     margin-right: 100px;
+    margin-bottom: 100px;
     border: 5px solid palevioletred; 
-    display: block; 
+    display: inline-block; 
     width: 400px; 
     height: 300px;
     padding: 50px 50px 50px 50px;
@@ -136,7 +136,7 @@ article h2 a {
     font-weight: 400;
 }
 
-#chotoi { 
+.blog { 
     padding-left: 400px;
     padding-right: 400px;
     text-align:center;
@@ -146,8 +146,9 @@ article h2 a {
     width: 500px; 
     height: 600px; 
 }
-#article1 { 
+.article1 { 
     text-align:initial;
+    line-height:2em;
 }
 
 table tr td a:hover { 
@@ -160,4 +161,23 @@ table tr td a:hover {
 
 aside p a { 
     text-decoration: none;
+}
+.citation { 
+    font-weight: lighter;
+}
+
+#article-2 { 
+    margin-left:100px;
+    margin-right: 100px;
+    margin-bottom: 130px;
+    border: 5px solid orange;
+    display: inline-block; 
+    width: 400px; 
+    height: 300px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 10px 10px orangered;
+    background-image: url("https://www.apaonline.org/graphics/logo-only.png");
+    background-size: 100% 100%;
+    border-radius: 20px;
+    vertical-align: top;
 }
