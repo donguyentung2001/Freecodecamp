@@ -226,7 +226,6 @@ td, th {
     width: 1000px;
     height:400px; 
     overflow:auto;
-    margin-bottom:200px;
 }
 
 footer { 
@@ -234,6 +233,7 @@ footer {
     padding:30px;
     padding-left:50px;
     color:white; 
+    margin-top:100px;
 }
 
 footer a { 
