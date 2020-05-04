@@ -181,3 +181,7 @@ aside p a {
     border-radius: 20px;
     vertical-align: top;
 }
+
+#my-article a { 
+    text-decoration: none;
+}
