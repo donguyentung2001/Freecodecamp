@@ -149,3 +149,7 @@ article h2 a {
 #article1 { 
     text-align:initial;
 }
+
+table tr td a:hover { 
+    font-size: initial;
+}
