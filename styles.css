@@ -227,3 +227,19 @@ td, th {
     height:400px; 
     overflow:auto;
 }
+
+footer { 
+    background-color:black;
+    padding:30px;
+    padding-left:50px;
+    color:white; 
+}
+
+footer a { 
+    display: inline-block;
+    width:120px;
+    height:50px;
+    margin:30px;
+    color:white;
+    text-decoration: none;
+}
