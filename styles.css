@@ -157,3 +157,7 @@ table tr td a:hover {
 .icon { 
     padding-right: 5px;
 }
+
+aside p a { 
+    text-decoration: none;
+}
