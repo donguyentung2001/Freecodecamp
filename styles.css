@@ -153,3 +153,7 @@ article h2 a {
 table tr td a:hover { 
     font-size: initial;
 }
+
+.icon { 
+    padding-right: 5px;
+}
