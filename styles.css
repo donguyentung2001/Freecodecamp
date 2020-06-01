@@ -96,13 +96,13 @@ a:hover {
     font-size:31px;
 }
 #article-1 { 
-    margin-left:100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
+    margin-left:80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
     border: 5px solid palevioletred; 
     display: inline-block; 
-    width: 400px; 
-    height: 300px;
+    width: 350px; 
+    height: 250px;
     padding: 50px 50px 50px 50px;
     box-shadow: 10px 10px palevioletred;
     background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMzk2fQ&w=1000&q=80");
@@ -167,13 +167,13 @@ aside p a {
 }
 
 #article-2 { 
-    margin-left:100px;
-    margin-right: 100px;
-    margin-bottom: 130px;
+    margin-left:80px;
+    margin-right: 80px;
+    margin-bottom: 800px;
     border: 5px solid orange;
     display: inline-block; 
-    width: 400px; 
-    height: 300px;
+    width: 350px; 
+    height: 250px;
     padding: 50px 50px 50px 50px;
     box-shadow: 10px 10px orangered;
     background-image: url("https://www.apaonline.org/graphics/logo-only.png");
