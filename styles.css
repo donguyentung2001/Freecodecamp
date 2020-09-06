@@ -126,6 +126,21 @@ a:hover {
     border-radius: 20px;
 }
 
+#project-2 { 
+    margin-left:80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    border: 5px solid palevioletred; 
+    display: inline-block; 
+    width: 350px; 
+    height: 250px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 10px 10px palevioletred;
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMzk2fQ&w=1000&q=80");
+    background-size: 100% 100%;
+    border-radius: 20px;
+}
+
 
 article h2 a { 
     text-decoration: none;
@@ -164,7 +179,9 @@ article h2 a {
     width: 500px; 
     height: 600px; 
 }
-#werewolf_login, #werewolf_room_enter, #werewolf_chat, #werewolf_end, #werewolf_vote, #werewolf_wait, #werewolf_dead, #color_choose,#color_start,#color_1,#color_2,#color_end { 
+#werewolf_login, #werewolf_room_enter, #werewolf_chat, #werewolf_end, #werewolf_vote,
+#werewolf_wait, #werewolf_dead, #color_choose,#color_start,#color_1,#color_2,#color_end,
+#text_1, #text_2,#tip_1,#text_1,#text_2 { 
     padding-top: 70px;
     max-width: 100%; 
     height: auto; 
